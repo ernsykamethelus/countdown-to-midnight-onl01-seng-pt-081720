@@ -9,7 +9,7 @@
 
 def countdown
 while countdown > 10 
-countdown +=1
+countdown -=1
  puts "#{countdown} is less than 10"
 end
 end
