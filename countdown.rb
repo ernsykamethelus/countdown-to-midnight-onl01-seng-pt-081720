@@ -8,7 +8,7 @@
 #write your code here
 
 def countdown (num)
-while countdown >= 1 
+while num >= 1 
  puts "#{countdown} SECOND(S)!"
  countdown -=1
 end
