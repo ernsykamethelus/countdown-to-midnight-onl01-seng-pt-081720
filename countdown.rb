@@ -9,6 +9,10 @@
 
 def countdown
   countdown = 0
-while "#{countdown} is less than 10"
-puts 
+while countdown > 10 
+countdown +=1
+ puts "#{countdown} is less than 10"
 end
+end
+
+puts "Happy New Year!"
