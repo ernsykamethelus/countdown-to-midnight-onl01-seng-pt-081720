@@ -8,7 +8,6 @@
 #write your code here
 
 def countdown
-  countdown = 0
 while countdown > 10 
 countdown +=1
  puts "#{countdown} is less than 10"
