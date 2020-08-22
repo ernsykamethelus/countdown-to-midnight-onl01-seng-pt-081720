@@ -10,4 +10,5 @@
 def countdown
   countdown = 0
 while "#{countdown} is less than 10"
+puts 
 end
