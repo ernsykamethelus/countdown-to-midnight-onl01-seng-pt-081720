@@ -10,7 +10,7 @@
 def countdown
 while countdown > 10 
 countdown -=10
- puts "#{countdown} SECOND(S)! is less than 10"
+ puts "#{countdown} SECOND(S)!"
 end
 end
 
